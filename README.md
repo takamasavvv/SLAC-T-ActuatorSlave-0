@@ -1,2 +1,2 @@
-# SLAC-T-ActuatorSlave-0
+# SLAC-T-ActuatorSlave0
 ActuatorSlave No.0
